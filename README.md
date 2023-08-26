@@ -1,6 +1,7 @@
 # Increment and Decrement App
 
-<img width="743" alt="image" src="https://github.com/SuryaPratap2542/Increment-decrement/assets/89827931/f8011340-7d5a-4214-8929-a114f5e801be">
+<img width="758" alt="image" src="https://github.com/SuryaPratap2542/Increment-decrement/assets/89827931/4d45999d-b2dc-43a1-a25b-49e27667b7cf">
+
 
 ## Description
 
